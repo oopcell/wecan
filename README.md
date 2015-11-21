@@ -3,7 +3,7 @@
 ## 100% Pure: JavaScript Fullstack for your next application
 The components of the PECAN stack are as follows:
 * PouchDB, a JavaScript implementation of CouchDB.
-* Express.js, a web applications framework
+* Express.js is a minimalist web framework
 * CSS framework
 * AngularJS is a single-page application framework
 * Node.js, a software platform for scalable server-side and networking applications.
