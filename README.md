@@ -1,4 +1,4 @@
-# [LEAN Logo](http://freek-heaters.com/pics/research/logo_lean.png)
+# ![LEAN Logo](http://freek-heaters.com/pics/research/logo_lean.png)
 
 ## 100% Pure: JavaScript Fullstack for your next application
 The components of the PECAN stack are as follows:
@@ -50,7 +50,7 @@ Simply download the [Installer](https://nodejs.org/#download) directly from the 
 
 ## License
 
-PECAN Stack is released under the MIT license.
+LEAN Stack is released under the MIT license.
 
 
 Copyright (C) 2015 Jussi Konttinen, [jussi.konttinen@hotmail.com](jussi.konttinen@hotmail.com)
