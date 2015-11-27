@@ -1,13 +1,14 @@
 # ![LEAN Logo temp](http://freek-heaters.com/pics/research/logo_lean.png)
 
-## 100% Pure: JavaScript Fullstack for your next application. Project that provides you with the steps necessary to build your own custom web service
+## 100% Pure: JavaScript Fullstack for your next application. LEAN solution stack is a Project that provides you with the steps necessary to build your own custom web service
 The components of the PECAN stack are as follows:
 * Linux/Windows
 * Express.js is a minimalist web framework
 * CSS framework
 * AngularJS is a single-page application framework
 * Node.js, a software platform for scalable server-side and networking applications.
-* LEAN Stack supports many different database servers and is officially supported with MariaDB, PouchDB, PostgreSQL.
+
+LEAN Stack supports many different database servers and is officially supported with MariaDB, PouchDB, PostgreSQL.
 
 ### Fedora 23
 
