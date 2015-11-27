@@ -1,4 +1,4 @@
-# ![LEAN Logo temp](http://freek-heaters.com/pics/research/logo_lean.png)
+# LEAN Stack ![LEAN Logo temp](https://upload.wikimedia.org/wikipedia/commons/f/f2/Teacup_clipart.png)
 
 ## 100% Pure: JavaScript Fullstack for your next application. LEAN solution stack is a Project that provides you with the steps necessary to build your own custom web service
 The components of the PECAN stack are as follows:
