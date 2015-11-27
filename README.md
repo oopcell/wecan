@@ -1,18 +1,19 @@
-# PECAN Stack ![Tree Logo](http://www.clker.com/cliparts/C/c/U/I/l/H/brown-wedding-tree-md.png)
+# [LEAN Logo](http://freek-heaters.com/pics/research/logo_lean.png)
 
 ## 100% Pure: JavaScript Fullstack for your next application
 The components of the PECAN stack are as follows:
-* PouchDB, a JavaScript implementation of CouchDB.
+* Linux/Windows
 * Express.js is a minimalist web framework
 * CSS framework
 * AngularJS is a single-page application framework
 * Node.js, a software platform for scalable server-side and networking applications.
+* LEAN Stack supports many different database servers and is officially supported with MariaDB, PouchDB, PostgreSQL.
 
 ### Fedora 23
 
 Create new project simply by executing 
 ```
-mkdir project && cd project && da create nodejs express -n pecan
+mkdir project && cd project && da create nodejs express -n lean
 ```
 ###  Other distributions
 
