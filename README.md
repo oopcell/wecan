@@ -8,7 +8,7 @@ The components of the LEAN stack are as follows:
 * AngularJS is a single-page application framework
 * Node.js, a software platform for scalable server-side and networking applications.
 
-LEAN Stack supports many different database servers and is officially supported with MariaDB, PouchDB, PostgreSQL.
+LEAN Stack supports many different database servers and is officially supported with MariaDB, MySQL, PouchDB and PostgreSQL.
 
 ### Fedora 23
 
