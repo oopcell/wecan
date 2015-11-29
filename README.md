@@ -1,6 +1,6 @@
 # LEAN Stack ![LEAN Logo temp](http://www.clker.com/cliparts/f/4/6/a/1220545209266627736hrum_feather.svg.thumb.png)
 
-### 100% Pure: JavaScript Fullstack for your next application. LEAN solution stack is a Project that provides you with the steps necessary to build your own custom web service
+### 100% Pure: JavaScript Fullstack for your next application. LEAN solution stack is a Project that provides you with the steps necessary to build your own custom web service.
 The components of the LEAN stack are as follows:
 * Windows / Linux
 * Express.js is a minimalist web framework
