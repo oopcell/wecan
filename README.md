@@ -1,20 +1,20 @@
-# LEAN Stack ![LEAN Logo temp](http://www.clker.com/cliparts/f/4/6/a/1220545209266627736hrum_feather.svg.thumb.png)
+![WECAN.js Logo temp](/pics/js.jpg)
 
-### 100% Pure: JavaScript Fullstack for your next application. LEAN solution stack is a Project that provides you with the steps necessary to build your own custom web service.
-The components of the LEAN stack are as follows:
-* Windows / Linux
+### 100% Pure: JavaScript Fullstack for your next application. WECAN.js solution stack is a Project that provides you with the steps necessary to build your own custom web service.
+The components of the WECAN.js stack are as follows:
+* Windows 10 / Linux
 * Express.js is a minimalist web framework
 * CSS framework
 * AngularJS is a single-page application framework
 * Node.js, a software platform for scalable server-side and networking applications.
 
-LEAN Stack supports PouchDB and is unofficially supported with MariaDB, Microsoft SQL, PouchDB and PostgreSQL.
+WECAN.js Stack supports PouchDB and is unofficially supported with MariaDB, Microsoft SQL, PouchDB and PostgreSQL.
 
 ### Fedora 23
 
-Create new project simply by executing 
+Create new project simply by executing
 ```
-mkdir project && cd project && da create nodejs express -n lean
+mkdir project && cd project && da create nodejs express -n wecan
 ```
 ###  Other distributions
 
@@ -51,7 +51,7 @@ Simply download the [Installer](https://nodejs.org/#download) directly from the 
 
 ## License
 
-LEAN Stack is released under the MIT license.
+WECAN.js Stack is released under the MIT license.
 
 
 Copyright (C) 2015 Jussi Konttinen, [jussi.konttinen@hotmail.com](jussi.konttinen@hotmail.com)
