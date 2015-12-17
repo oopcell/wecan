@@ -8,7 +8,7 @@ The components of the WECAN.js stack are as follows:
 * AngularJS is a single-page application framework
 * Node.js, a software platform for scalable server-side and networking applications.
 
-WECAN.js Stack supports PouchDB and is unofficially supported with MariaDB, Microsoft SQL, PouchDB and PostgreSQL.
+WECAN.js Stack supports PouchDB and is unofficially supported with MariaDB, Microsoft SQL and PostgreSQL.
 
 ### Fedora 23
 
