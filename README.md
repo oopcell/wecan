@@ -2,7 +2,7 @@
 
 ### 100% Pure: JavaScript Fullstack for your next application. WECAN.js solution stack is a Project that provides you with the steps necessary to build your own custom web service.
 The components of the WECAN.js stack are as follows:
-* Windows 10 / Linux
+* Windows 10 / Linux / OS X
 * Express.js is a minimalist web framework
 * CSS framework
 * AngularJS is a single-page application framework
