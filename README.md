@@ -27,7 +27,7 @@ sudo apt-get install nodejs
 
 Simply download the [Installer](https://nodejs.org/#download) directly from the nodejs.org web site.
 
-#### Add this to your index.html:
+### Add this to your index.html:
 ```
 <!-- PouchDB and AngularJS -->
 <script src="//cdn.jsdelivr.net/pouchdb/5.1.0/pouchdb.min.js"></script>
