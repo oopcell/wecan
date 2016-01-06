@@ -14,7 +14,7 @@ WECAN.js Stack supports PouchDB and is unofficially supported with MariaDB, Micr
 
 Create new project simply by executing
 ```
-mkdir project && cd project && da create nodejs express -n wecan
+mkdir myproject && cd myproject && da create nodejs express -n wecan
 ```
 ###  Other distributions
 
