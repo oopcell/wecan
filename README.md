@@ -1,18 +1,20 @@
-# PECAN Stack ![Tree Logo](http://www.clker.com/cliparts/C/c/U/I/l/H/brown-wedding-tree-md.png)
+![WECAN.js Logo temp](/pics/js.jpg)
 
-## 100% Pure: JavaScript Fullstack for your next application
-The components of the PECAN stack are as follows:
-* PouchDB, a JavaScript implementation of CouchDB.
-* Express.js, a web applications framework
+### 100% Pure: JavaScript Fullstack for your next application. WECAN.js solution stack is a Project that provides you with the steps necessary to build your own custom web service.
+The components of the WECAN.js stack are as follows:
+* Windows 10 / Linux / OS X
+* Express.js is a minimalist web framework
 * CSS framework
 * AngularJS is a single-page application framework
 * Node.js, a software platform for scalable server-side and networking applications.
+
+WECAN.js Stack supports PouchDB and is unofficially supported with MariaDB, Microsoft SQL and PostgreSQL.
 
 ### Fedora 23
 
 Create new project simply by executing
 ```
-mkdir project && cd project && da create nodejs express -n pecan
+mkdir project && cd project && da create nodejs express -n wecan
 ```
 ###  Other distributions
 
@@ -49,7 +51,7 @@ Simply download the [Installer](https://nodejs.org/#download) directly from the 
 
 ## License
 
-PECAN Stack is released under the MIT license.
+WECAN.js Stack is released under the MIT license.
 
 
 Copyright (C) 2016 Jussi Konttinen, [jussi.konttinen@hotmail.com](jussi.konttinen@hotmail.com)
