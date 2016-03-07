@@ -10,7 +10,7 @@ The components of the WECAN.js stack are as follows:
 
 WECAN.js Stack supports PouchDB and is unofficially supported with MariaDB, Microsoft SQL and PostgreSQL.
 
-### Fedora 23
+### Fedora
 
 Create new project simply by executing
 ```
