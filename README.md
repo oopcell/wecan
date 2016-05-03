@@ -30,8 +30,8 @@ Simply download the [Installer](https://nodejs.org/#download) directly from the 
 ### Add this to your index.html:
 ```
 <!-- PouchDB and AngularJS -->
-<script src="//cdn.jsdelivr.net/pouchdb/5.3.0/pouchdb.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js"></script>
+<script src="//cdn.jsdelivr.net/pouchdb/5.3.1/pouchdb.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
 ```
 
 ### API & Docs:
