@@ -18,7 +18,7 @@ mkdir myproject && cd myproject && da create nodejs express -n wecan
 ```
 ###  Other distributions
 
-Consult the [documentation](https://github.com/nodejs/node-v0.x-archive/wiki/Installing-Node.js-via-package-manager) for your distribution for more details. Install with Ubuntu:
+Consult the [documentation](https://nodejs.org/en/download/package-manager/) for your distribution for more details. Install with Ubuntu:
 ```
 sudo apt-get install nodejs
 ```
@@ -30,8 +30,8 @@ Simply download the [Installer](https://nodejs.org/#download) directly from the 
 ### Add this to your index.html:
 ```
 <!-- PouchDB and AngularJS -->
-<script src="//cdn.jsdelivr.net/pouchdb/5.4.4/pouchdb.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+<script src="//cdn.jsdelivr.net/pouchdb/5.4.5/pouchdb.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
 ```
 
 ### API & Docs:
