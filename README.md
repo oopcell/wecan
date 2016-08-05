@@ -36,7 +36,7 @@ Simply download the [Installer](https://nodejs.org/#download) directly from the 
 
 ### API & Docs:
 * [PouchDB](http://pouchdb.com/guides/setup-pouchdb.html)
-* [Express.js](http://expressjs.com/starter/installing.html)
+* [Express.js](http://expressjs.com/en/starter/installing.html)
 * [CSS Tutorial](http://www.tutorialspoint.com/css/index.htm)
 * [AngularJS](https://docs.angularjs.org/api)
 * [Node.js](https://nodejs.org/api/)
