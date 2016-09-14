@@ -3,35 +3,35 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
     <title>WECAN.js by oopcell</title>
   </head>
 
   <body>
-
     <header>
-      <div class="container">
+      <div class="inner">
         <h1>WECAN.js</h1>
         <h2>JavaScript Fullstack inspired by MEAN software bundle</h2>
-
-        <section id="downloads">
-          <a href="https://github.com/oopcell/wecan/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/oopcell/wecan/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/oopcell/wecan" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
+        <a href="https://github.com/oopcell/wecan" class="button"><small>View project on</small> GitHub</a>
       </div>
     </header>
 
-    <div class="container">
-      <section id="main_content">
-        <p><img src="https://github.com/oopcell/wecan/raw/master/pics/js.jpg" alt="WECAN.js Logo"></p>
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <p><img src="/pics/js.jpg" alt="WECAN.js Logo temp"></p>
 
 <h3>
-<a id="100-pure-javascript-fullstack-for-your-next-application-wecanjs-solution-stack-is-a-project-that-provides-you-with-the-steps-necessary-to-build-your-own-custom-web-service" class="anchor" href="#100-pure-javascript-fullstack-for-your-next-application-wecanjs-solution-stack-is-a-project-that-provides-you-with-the-steps-necessary-to-build-your-own-custom-web-service" aria-hidden="true"><span class="octicon octicon-link"></span></a>100% Pure: JavaScript Fullstack for your next application. WECAN.js solution stack is a Project that provides you with the steps necessary to build your own custom web service.</h3>
+<a id="100-pure-javascript-fullstack-for-your-next-application-wecanjs-solution-stack-is-a-project-that-provides-you-with-the-steps-necessary-to-build-your-own-custom-web-service" class="anchor" href="#100-pure-javascript-fullstack-for-your-next-application-wecanjs-solution-stack-is-a-project-that-provides-you-with-the-steps-necessary-to-build-your-own-custom-web-service" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>100% Pure: JavaScript Fullstack for your next application. WECAN.js solution stack is a Project that provides you with the steps necessary to build your own custom web service.</h3>
 
 <p>The components of the WECAN.js stack are as follows:</p>
 
@@ -46,47 +46,47 @@
 <p>WECAN.js Stack supports PouchDB and is unofficially supported with MariaDB, Microsoft SQL and PostgreSQL.</p>
 
 <h3>
-<a id="fedora-23" class="anchor" href="#fedora-23" aria-hidden="true"><span class="octicon octicon-link"></span></a>Fedora 23</h3>
+<a id="fedora" class="anchor" href="#fedora" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Fedora</h3>
 
 <p>Create new project simply by executing</p>
 
-<pre><code>mkdir project &amp;&amp; cd project &amp;&amp; da create nodejs express -n wecan
+<pre><code>mkdir myproject &amp;&amp; cd myproject &amp;&amp; da create nodejs express -n wecan
 </code></pre>
 
 <h3>
-<a id="other-distributions" class="anchor" href="#other-distributions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Other distributions</h3>
+<a id="other-distributions" class="anchor" href="#other-distributions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Other distributions</h3>
 
-<p>Consult the <a href="https://github.com/nodejs/node-v0.x-archive/wiki/Installing-Node.js-via-package-manager">documentation</a> for your distribution for more details. Install with Ubuntu:</p>
+<p>Consult the <a href="https://nodejs.org/en/download/package-manager/">documentation</a> for your distribution for more details. Install with Ubuntu:</p>
 
 <pre><code>sudo apt-get install nodejs
 </code></pre>
 
 <h3>
-<a id="windows-os-x" class="anchor" href="#windows-os-x" aria-hidden="true"><span class="octicon octicon-link"></span></a>Windows, OS X</h3>
+<a id="windows-os-x" class="anchor" href="#windows-os-x" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Windows, OS X</h3>
 
 <p>Simply download the <a href="https://nodejs.org/#download">Installer</a> directly from the nodejs.org web site.</p>
 
 <h3>
-<a id="add-this-to-your-indexhtml" class="anchor" href="#add-this-to-your-indexhtml" aria-hidden="true"><span class="octicon octicon-link"></span></a>Add this to your index.html:</h3>
+<a id="add-this-to-your-indexhtml" class="anchor" href="#add-this-to-your-indexhtml" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Add this to your index.html:</h3>
 
 <pre><code>&lt;!-- PouchDB and AngularJS --&gt;
-&lt;script src="//cdn.jsdelivr.net/pouchdb/5.2.0/pouchdb.min.js"&gt;&lt;/script&gt;
-&lt;script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"&gt;&lt;/script&gt;
+&lt;script src="//cdn.jsdelivr.net/pouchdb/5.4.5/pouchdb.min.js"&gt;&lt;/script&gt;
+&lt;script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"&gt;&lt;/script&gt;
 </code></pre>
 
 <h3>
-<a id="api--docs" class="anchor" href="#api--docs" aria-hidden="true"><span class="octicon octicon-link"></span></a>API &amp; Docs:</h3>
+<a id="api--docs" class="anchor" href="#api--docs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>API &amp; Docs:</h3>
 
 <ul>
 <li><a href="http://pouchdb.com/guides/setup-pouchdb.html">PouchDB</a></li>
-<li><a href="http://expressjs.com/starter/installing.html">Express.js</a></li>
+<li><a href="http://expressjs.com/en/starter/installing.html">Express.js</a></li>
 <li><a href="http://www.tutorialspoint.com/css/index.htm">CSS Tutorial</a></li>
 <li><a href="https://docs.angularjs.org/api">AngularJS</a></li>
 <li><a href="https://nodejs.org/api/">Node.js</a></li>
 </ul>
 
 <h3>
-<a id="useful-links" class="anchor" href="#useful-links" aria-hidden="true"><span class="octicon octicon-link"></span></a>Useful Links:</h3>
+<a id="useful-links" class="anchor" href="#useful-links" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Useful Links:</h3>
 
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/CSS_frameworks">CSS frameworks</a></li>
@@ -97,7 +97,7 @@
 </ul>
 
 <h2>
-<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h2>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h2>
 
 <p>WECAN.js Stack is released under the MIT license.</p>
 
@@ -108,9 +108,25 @@
 <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
 
 <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
-      </section>
+        </section>
+
+        <aside id="sidebar">
+          <a href="https://github.com/oopcell/wecan/zipball/master" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="https://github.com/oopcell/wecan/tarball/master" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+
+          <p class="repo-owner"><a href="https://github.com/oopcell/wecan"></a> is maintained by <a href="https://github.com/oopcell">oopcell</a>.</p>
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
+        </aside>
+      </div>
     </div>
 
-    
+  
   </body>
 </html>
